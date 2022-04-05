@@ -13,8 +13,8 @@
       "reminder": true
     },
     {
-      "text": "Take Test",
-      "day": "April 11",
+      "text": "test",
+      "day": "april",
       "reminder": true,
       "id": 3
     }
