@@ -5,18 +5,18 @@
       "text": "Appointment",
       "day": "April 5",
       "reminder": true
-  },
-  {
+    },
+    {
       "id": 2,
       "text": "Meeting",
       "day": "April 12",
       "reminder": true
-  },
-  {
-      "id": "3",
-      "text": "Shopping",
+    },
+    {
+      "text": "Take Test",
       "day": "April 11",
-      "reminder": false
-  }
+      "reminder": true,
+      "id": 3
+    }
   ]
 }
